@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="default"
+		module="crs_1_2.13"
+		revision="0.1"
+		conf="provided"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+<<<<<<< HEAD
+		date="20190904192948"/>
+=======
+		date="20190905151409"/>
+>>>>>>> bcf33391eb1c1b28b120390b62cd018ef0f4fd5d
+	<dependencies>
+	</dependencies>
+</ivy-report>

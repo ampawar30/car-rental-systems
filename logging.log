@@ -1,0 +1,55 @@
+2019-09-04 19:40:05 INFO  LoggerUtil$:25 - Customer Entered
+2019-09-04 19:51:57 INFO  LoggerUtil$:37 - admin@gmail.com Entering
+2019-09-04 20:16:30 INFO  LoggerUtil$:38 - admin@gmail.com Entering
+2019-09-04 20:16:31 INFO  LoggerUtil$:48 - Car Details Seen
+2019-09-04 20:16:38 INFO  LoggerUtil$:56 - User Searching FORD Car
+2019-09-04 20:16:44 INFO  LoggerUtil$:62 - Profit Calulated by Admin
+2019-09-04 20:18:08 INFO  LoggerUtil$:38 - admin@gmail.com Entering
+2019-09-04 20:18:08 INFO  LoggerUtil$:26 - Customer Entered
+2019-09-04 20:18:11 INFO  LoggerUtil$:56 - User Searching FORD Car
+2019-09-04 20:18:11 INFO  LoggerUtil$:26 - Customer Entered
+2019-09-04 20:18:23 INFO  LoggerUtil$:41 - Log-Out
+2019-09-05 13:02:37 INFO  LoggerUtil$:39 - admin@gmail.com Entering
+2019-09-05 13:02:40 INFO  LoggerUtil$:48 - Car Details Seen
+2019-09-05 13:02:46 INFO  LoggerUtil$:98 - Log-Out
+2019-09-05 13:05:41 INFO  LoggerUtil$:39 - admin@gmail.com Entering
+2019-09-05 13:05:42 INFO  Car:52 - Car Details Seen
+2019-09-05 13:05:49 INFO  Car:60 - User Searching FORD Car
+2019-09-05 13:06:01 INFO  OwnerProfit:65 - Profit Calulated by Admin
+2019-09-05 13:06:07 INFO  OptionMenu:102 - Log-Out
+2019-09-05 13:06:30 INFO  LoggerUtil$:39 - admin@gmail.com Entering
+2019-09-05 13:06:30 INFO  LoggerUtil$:26 - Customer Entered
+2019-09-05 13:07:09 INFO  LoggerUtil$:26 - Customer Entered
+2019-09-05 13:07:14 INFO  LoggerUtil$:26 - Customer Entered
+2019-09-05 13:07:22 INFO  LoggerUtil$:26 - Customer Entered
+2019-09-05 13:07:26 INFO  LoggerUtil$:26 - Customer Entered
+2019-09-05 13:09:05 INFO  LoggerUtil$:26 - Customer Entered
+2019-09-05 13:09:07 INFO  LoggerUtil$:26 - Customer Entered
+2019-09-05 13:09:59 INFO  LoggerUtil$:26 - Customer Entered
+2019-09-05 13:10:02 INFO  Car:60 - User Searching FORD Car
+2019-09-05 13:10:02 INFO  LoggerUtil$:26 - Customer Entered
+2019-09-05 13:55:40 INFO  Car:60 - User Searching FORD Car
+2019-09-05 13:55:51 INFO  OptionMenu:52 - Log-Out
+2019-09-05 13:56:09 INFO  Car:52 - Car Details Seen
+2019-09-05 13:58:19 INFO  Car:52 - Car Details Seen
+2019-09-05 13:58:22 INFO  Car:60 - User Searching FORD Car
+2019-09-05 13:58:28 INFO  OwnerProfit:65 - Profit Calulated by Admin
+2019-09-05 14:04:25 INFO  Car:52 - Car Details Seen
+2019-09-05 14:04:46 INFO  Car:60 - User Searching FORD Car
+2019-09-05 14:04:57 INFO  OwnerProfit:65 - Profit Calulated by Admin
+2019-09-05 14:05:07 INFO  OptionMenu:102 - Log-Out
+2019-09-05 14:05:26 INFO  Car:60 - User Searching FORD Car
+2019-09-05 14:05:50 INFO  Car:60 - User Searching FORD Car
+2019-09-05 14:06:10 INFO  Car:138 - Car has been booked
+2019-09-05 14:06:31 INFO  IssueCharges:43 - Break From updateUserCharges
+2019-09-05 14:06:31 INFO  IssueCharges:25 - Total Charges for Customer ashish@gmail.com is 7963.200000000001
+2019-09-05 14:06:51 INFO  OptionMenu:52 - Log-Out
+2019-09-05 15:40:42 INFO  Car:60 - User Searching FORD Car
+2019-09-05 15:41:08 INFO  Car:60 - User Searching 7 Car
+2019-09-05 15:41:08 INFO  Car:71 - Car not Found
+2019-09-05 15:59:19 INFO  Car:60 - User Searching FORD Car
+2019-09-05 17:10:28 INFO  Car:60 - User Searching FORD Car
+2019-09-05 17:10:41 INFO  Car:60 - User Searching FORD Car
+2019-09-05 17:10:58 INFO  Car:138 - Car has been booked
+2019-09-05 17:11:18 INFO  IssueCharges:26 - Total Charges for Customer ashish@gmail.com is 8002.700000000001
+2019-09-05 17:11:30 INFO  OptionMenu:52 - Log-Out
